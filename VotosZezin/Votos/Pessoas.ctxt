@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pessoas
+comment1.params=
+comment1.target=Pessoas()
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=void\ votar()
+comment5.params=
+comment5.target=int\ getVotos()
+numComments=6
